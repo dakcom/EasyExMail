@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "kitetail/zttp": "*"
+        "kitetail/zttp": "^0.6"
     },
     "autoload": {
         "psr-4": {
